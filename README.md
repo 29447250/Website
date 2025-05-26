@@ -1,31 +1,26 @@
-Great! Here’s a **step-by-step guide** to deploy your Stromablox website on GitHub Pages:
+Stromablox (PTY) Ltd
+Diverse Civil Construction, Mining Projects & Supplies
 
-✅ **1️⃣ Create a GitHub account (if you don’t have one):**
-Go to https://github.com and sign up.
+Home
+About Us
+Services
+Contact
+Welcome to Stromablox
+We are a 100% black-owned, Level 1 B-BBEE company delivering exceptional solutions in mining, civil construction, and specialty supplies. With a passionate, expert team, we bring excellence to every project.
 
-✅ **2️⃣ Create a new repository:**
-- Click the **+** in the top-right → **New repository**
-- Name it something like `stromablox-website`
-- Make it **Public**
-- Check **Add a README**
-- Click **Create repository**
+About Us
+Founded by Mr. TW Mafatshe, Stromablox emerged from determination and experience. Today, under the leadership of Mr. PM Nyathi, we are known for delivering sustainable, innovative, and reliable services across South Africa and beyond.
 
-✅ **3️⃣ Upload your website files:**
-- On the repo page, click **Add file → Upload files**
-- Upload your `index.html` (and any other files like images or CSS if separate)
-- Click **Commit changes**
+Our Services
+Mining Projects & Supplies: Dust suppression, haulage solutions, machinery rentals
+General & Civil Construction: Renovations, property development, plumbing, electrical, roofing
+Custom Engineering: Site setups, chemical-grade tanks, PLC systems
+Specialty Products: GRDC product range, equipment sourcing
+Contact Us
+Address: 38 Lapologang Village, Morula Street, Marikana, 0284
 
-✅ **4️⃣ Enable GitHub Pages:**
-- Go to **Settings → Pages** (or **Settings → Code and automation → Pages**)
-- Under **Source**, choose `main` (or `master`) branch, and select `/root` folder
-- Click **Save**
+Phone: 073 568 0784
 
-✅ **5️⃣ Get your live website link:**
-GitHub will give you a URL like:
-`https://<your-username>.github.io/<repository-name>/`
+Email: stromablox@gmail.com
 
-✅ **6️⃣ Test it:**
-Open the link in your browser — your website should be live!
-
-If you want, I can generate a zip package of your website files to make uploading easier. Just say: **"Send me the zip package"**!
-# Website
+© 2025 Stromablox (PTY) Ltd. All rights reserved.
